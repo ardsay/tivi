@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1118" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" aspect-ratio="16:9" size="Small", BBC One
+https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
+#EXTINF:0 type="stream" channelId="1119" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" aspect-ratio="16:9" size="Small", BBC Two
+https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+#EXTINF:0 type="stream" channelId="1179" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/400px-ITV_logo_2013.svg.png?20220426002950" size="Small", ITV
+https://cdnuk001.broadcastcdn.net/KUK-STV/index.m3u8
+#EXTINF:0 type="stream" channelId="1210" group="Entertainment" size="Small", Channel 4
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
+#EXTINF:0 type="stream" channelId="1199" group="Entertainment" size="Small", Channel 5
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/index.m3u8
+#EXTINF:0 type="stream" channelId="1143" group="News" logo="https://i.imgur.com/rPzH88J.png" aspect-ratio="16:9" size="Small", BBC News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:0 type="stream" channelId="1175" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/1024px-Sky-news-logo.svg.png?20210603064845" aspect-ratio="16:9", Sky News
+https://youtu.be/embed/9Auq9mYxFEE
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" aspect-ratio="16:9" size="Small", Talk TV
+https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Xite_Logo_New.jpg?20130916093754" size="Small", XITE NL
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" aspect-ratio="16:9" size="Small", XITE Hits UK
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 type="stream" channelId="-1" group="Music" size="Small", XITE 90s Throwback
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/30/GBBC2100002HP_20220608T011341.png" aspect-ratio="16:9" size="Small", Vevo '90s & '00s
+https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" size="Small", Vevo 90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" size="Small", Vevo 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png" size="Small", Q Music NL
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" size="Small", Vevo Pop UK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/19/GBBC19000017V_20220608T011347.png" size="Small", Vevo Pop US
+https://eu.linear.zype.com/ddc9a2e1-559f-4231-978d-988e6ed3496e/39aafa78-d7c6-49a3-9057-59cdadaa2fb6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" size="Small", MTV Block Party
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://images.pluto.tv/channels/6152d75abd229300079c7078/colorLogoPNG.png" size="Small", Married with Children
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6152d75abd229300079c7078/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="56" group="Documentaries" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1599px-Natgeologo.svg.png?20170701171613" aspect-ratio="16:9" size="Small", Nat Geo
+http://45.92.69.77:8000/play/a00y/index.m3u8
+#EXTINF:0 type="stream" channelId="57" group="Documentaries" aspect-ratio="16:9" size="Small", Discovery Channel
+http://45.92.69.77:8000/play/a013/index.m3u8
+#EXTINF:0 type="stream" channelId="721" group="Documentaries" size="Small", NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Documentaries" logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" aspect-ratio="16:9" size="Small", Pluto TV Space
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Documentaries" logo="https://images.pluto.tv/channels/5d9492c77ea6f99188738ff1/colorLogoPNG.png" size="Small", Pluto TV Science
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77ea6f99188738ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="2051" group="Documentaries" aspect-ratio="16:9" size="Small", Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3512" group="Documentaries" size="Small", PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Documentaries" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/History_TV_Logo.svg/1200px-History_TV_Logo.svg.png" size="Small", History TV
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Documentaries" logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" size="Small", Pluto TV History
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Documentaries" logo="https://images.pluto.tv/channels/5db04252241007000975faac/colorLogoPNG.png" aspect-ratio="16:9" size="Small", Pluto TV Documentaries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db04252241007000975faac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="Documentaries" logo="https://images.pluto.tv/channels/61fb9907b1b78d000717ed9f/colorLogoPNG.png" size="Small", Smithsonian Selects
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fb9907b1b78d000717ed9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="1121" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/512px-BBC_Four_HD_Logo.svg.png" aspect-ratio="16:9" size="Small", BBC Four
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF:0 type="stream" channelId="1120" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" aspect-ratio="16:9" size="Small", BBC Three
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:0 type="stream" channelId="3459" group="Entertainment" size="Small", ITVBe
+https://cdnuk001.broadcastcdn.net/KUK-ITVBE/index.m3u8
+#EXTINF:0 type="stream" channelId="1183" group="Entertainment" size="Small", ITV2
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
+#EXTINF:0 type="stream" channelId="1184" group="Entertainment" size="Small", ITV3
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/index.m3u8
+#EXTINF:0 type="stream" channelId="1185" group="Entertainment" size="Small", ITV4
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1600px-5Star_logo_2019.svg.png?20210304011951" aspect-ratio="16:9" size="Small", 5 STAR
+https://cdnuk001.broadcastcdn.net/KUK-5STAR/index.m3u8
+#EXTINF:0 type="stream" channelId="1235" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1600px-5Star_logo_2019.svg.png?20210304011951" aspect-ratio="16:9" size="Small", 5 USA
+https://cdnuk001.broadcastcdn.net/KUK-5USA/index.m3u8
+#EXTINF:0 type="stream" channelId="217" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euronews_logo.svg/1088px-Euronews_logo.svg.png?20220220130143" aspect-ratio="16:9" size="Small", Euronews
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2883" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" size="Small", CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/A1xzjOI.png" aspect-ratio="16:9" size="Small", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" aspect-ratio="16:9" size="Small", NBC News Now
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" size="Small", GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:0 type="stream" channelId="363" group="News" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.pn" aspect-ratio="16:9" size="Small", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" size="Small", Homes Under the Hammer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="94" aspect-ratio="16:9" size="Small", Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:0 type="stream" channelId="102" aspect-ratio="16:9" size="Small", WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:0 type="stream" channelId="1455" group="Documentaries" size="Small", History Channel
+http://45.92.69.77:8000/play/a04t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Documentaries" aspect-ratio="16:9" size="Small", Nat Geo SP
+http://190.83.119.254:8000/play/a0xu/index.m3u8
+#EXTINF:0 type="stream" channelId="1258" group="Entertainment" aspect-ratio="16:9" size="Small", Channel 4 HD
+http://mytv.fun:8080/8teb38q118/fn7autghye/692499
+#EXTINF:0 type="stream" channelId="98" group="German" size="Small", ZDF
+https://ecanlitv1.etvserver.com/live_sd/dezdf/chunks.m3u8?nimblesessionid=249539394&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjIgMjowNjozMCBQTSZoYXNoX3ZhbHVlPXJkb0ZYS0tLRkRFVTk1bDBld1d5cWc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://s3.postimg.org/r7up5r603/BBC_Parliament_Logo_svg.png" size="Small", Parliament House of Commons
+https://ukp.cdn.vustreams.com/live/b6a0a51c-ba5b-4131-8903-d5b86ef2e2bd/live.isml/live-audio_track_0_eng=64000-video=1300000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ultra_HD_-_Logo.svg/488px-Ultra_HD_-_Logo.svg.png?20140907221603" size="Small", BBC UHD Stream 1
+https://ve-uhd-push-uk.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+#EXTINF:0 type="stream" channelId="-1" group="News" size="Small", BBC One North West
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
